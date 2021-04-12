@@ -1,0 +1,12 @@
+/* ::-webkit-scrollbar {
+  display: none;
+} */
+
+::-webkit-scrollbar {
+  background: #F3F4F6;
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cccccc;
+}
